@@ -54,7 +54,8 @@ public class A3{
 				right = mid - 1;
 			}
 		}
-		return left;
+		return -1;
+		
 	}
 	public static void main(String[] args) {
 		A3 solution = new A3();
